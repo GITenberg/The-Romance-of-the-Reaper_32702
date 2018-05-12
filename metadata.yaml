@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '427'
     url: http://www.gutenberg.org/2009/agents/427
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32702#The-Romance-of-the-Reaper
 gutenberg_issued: '2010-06-05'
 gutenberg_type: Text
 identifiers:
