@@ -26,6 +26,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'HD'
 - !lcsh 'Harvesting machinery'
+- GITenberg
 tableOfContents: The story of McCormick -- The story of Deering -- The International
   Harvester Company -- The American harvester abroad -- The harvester and the American
   farmer.
